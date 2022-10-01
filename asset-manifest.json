@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pmcodes/static/css/main.0e1c67d3.css",
+    "main.js": "/react-pmcodes/static/js/main.d88f2d19.js",
+    "static/media/img-1.jpg": "/react-pmcodes/static/media/img-1.b47cb3e8a8cc29720d29.jpg",
+    "static/media/img-3.jpg": "/react-pmcodes/static/media/img-3.af8648d7f29c7f6f47b2.jpg",
+    "index.html": "/react-pmcodes/index.html",
+    "main.0e1c67d3.css.map": "/react-pmcodes/static/css/main.0e1c67d3.css.map",
+    "main.d88f2d19.js.map": "/react-pmcodes/static/js/main.d88f2d19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1c67d3.css",
+    "static/js/main.d88f2d19.js"
+  ]
+}
