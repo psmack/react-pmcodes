@@ -7,8 +7,7 @@ export default function AboutMe() {
             <div className='aboutme'>
                 <h1>ABOUT ME</h1>
                 <p>Under Construction</p>
-            </div>
-            
+            </div>         
         </> 
     )
 }
