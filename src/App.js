@@ -16,6 +16,7 @@ function App() {
           {/* <Route exact path="/" element={<Home />}> */}
           <Route index element={<Home />}></Route>
           <Route exact path="/home" element={< Home />}/>
+          <Route exact path="/react-pmcodes" element={< Home />}/>
           <Route exact path="/aboutme" element={< AboutMe />}/> 
           <Route exact path="/projects" element={< Projects />}/> 
         </Routes>
